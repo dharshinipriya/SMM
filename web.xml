@@ -1,0 +1,9 @@
+<web-app>
+<servlet-name>s7</servlet-name>
+<servlet-class>bill</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>s7</servlet-name>
+<url-pattern>/hey</url-pattern>
+</servlet-mapping>
+</web-app>
